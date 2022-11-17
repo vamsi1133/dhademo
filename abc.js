@@ -1,2 +1,3 @@
 let a = "hello";
-let b = "world";
+
+let c= "hai";
